@@ -9,6 +9,9 @@ Using the available USGS APIs:
 
 # Inspirations
 Panorama of John Banvard
+
 Veta la Palma - http://www.vetalapalma.es/index.asp?LG=2
+
 Meander - http://roberthodgin.com/project/meander
+
 Study of Veta la Palma by German candidates. Searching for link.
