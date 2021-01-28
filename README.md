@@ -20,14 +20,19 @@ Visual representation/spectra of data to display
 ## Inspirations
 Panorama of John Banvard
 
+YouTube of Dan Barber's "How I fell in Love with a fish" - https://youtu.be/4EUAMe2ixCI 
+
 Veta la Palma - http://www.vetalapalma.es/index.asp?LG=2
 
 Meander - http://roberthodgin.com/project/meander
 
-Study of Veta la Palma by German candidates. Searching for link. -- Really need to find this link.
-- A model for the future <file is in repository>
+Study of Veta la Palma by Welsh and Spanish researchers. 
+- resource/Amodelforthefuture.docx (how do I make a hyperlink through directories?)
+ 
 
-GitHub YouTube channels about building an open source project.
+GitHub Education Twitter Channel.
+
+YouTube channels about building an open source project.
 -- Eddie Jaoude - https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 ## Scribbles
