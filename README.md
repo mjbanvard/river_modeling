@@ -23,19 +23,22 @@ Panorama of John Banvard
 YouTube of Dan Barber's "How I fell in Love with a fish" - https://youtu.be/4EUAMe2ixCI 
 
 Veta la Palma - http://www.vetalapalma.es/index.asp?LG=2
+- Beautiful Now article on Veta la Palma - https://beautifulnow.is/discover/food/a-return-to-beauty-for-fish-right-now
+- earthrise YouTube article - https://www.youtube.com/watch?v=pzoY7lMQAVM
+- Planet of Hope- Veta la Palma episode - https://www.youtube.com/watch?v=ynWD7VKKX_0
+- Future Fish: https://www.youtube.com/watch?v=K4UMdfU1unY
 
 Meander - http://roberthodgin.com/project/meander
 
 Study of Veta la Palma by Welsh and Spanish researchers. 
 - resource/Amodelforthefuture.docx (how do I make a hyperlink through directories?)
  
-
 GitHub Education Twitter Channel.
 
 YouTube channels about building an open source project.
 -- Eddie Jaoude - https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 ## Scribbles
-#vibrations #waves #oopmeasurements #aimodeling #opensourcescience
+@vibrations @waves @oopmeasurements @aimodeling @opensourcescience @columbiabottomsconservationarea
 
 
